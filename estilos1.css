@@ -1,0 +1,38 @@
+.header {
+  border: 0.1px solid;
+  height: 3.5rem;
+  margin-left: -0.6%;
+  margin-top: -0.6%;
+  width: 101%;
+  background-color: #121214;
+}
+.a {
+  margin-left: 6%;
+  font: 700 170% 'Poppins', sans-serif;
+  margin-top: 1%;
+}
+.b {
+  font: 700 170% 'Poppins', sans-serif;
+  margin-top: -3.7%;
+  margin-left: 60%;
+}
+.b1 {
+  text-decoration: none;
+  color: white;
+}
+.central {
+  border: 0.2rem solid;
+  height: 70rem;
+  width: 70%;
+  margin-top: 5%;
+  margin-left: 15%;
+}
+.h {
+  border: 0.2rem solid;
+  height: 4rem;
+}
+.h1 {
+  font: 700 240% 'Poppins', sans-serif;
+  text-align: center;
+  margin-top: 0.5%;
+}
