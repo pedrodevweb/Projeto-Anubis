@@ -1,0 +1,348 @@
+.header {
+  border: 0.1px solid;
+  height: 3.5rem;
+  margin-left: -0.6%;
+  margin-top: -0.6%;
+  width: 101%;
+  background-color: #121214;
+}
+.a {
+  margin-left: 6%;
+  font: 700 170% 'Poppins', sans-serif;
+  margin-top: 0.6%;
+}
+.b {
+  font: 700 170% 'Poppins', sans-serif;
+  margin-top: -4.4%;
+  margin-left: 60%;
+}
+.b1 {
+  text-decoration: none;
+  color: white;
+}
+.header1 {
+  border: 0.1px solid;
+  height: 2.3rem;
+  margin-top: 1.2%;
+  margin-left: -0.6%;
+  width: 101%;
+  background-color: #2c2663;
+}
+.c {
+  font: 400 142% 'Poppins', sans-serif;
+  margin-top: 0.1%;
+  margin-left: 6%;
+}
+.text1 {
+  margin-left: 35%;
+  margin-top: -3.4%;
+  font: 400 125% 'Poppins', sans-serif;
+}
+.body {
+  border: 0.1rem solid white;
+  height: 25rem;
+  margin-top: 0.25%;
+  margin-left: -0.8%;
+  width: 101%;
+  background-color: #121214;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  transition: all 0.1s;
+}
+
+.body1 {
+  font: 700 350% 'Poppins', sans-serif;
+  color: white;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+  margin-top: 10.5%;
+  margin-left: 3%;
+  transition: all 0.6s;
+}
+
+.tema {
+  margin-left: 3.2%;
+  margin-top: -5%;
+  height: 3.1rem;
+  width: 35%;
+  border-radius: 0.3rem;
+  transition: all 0.2s;
+}
+.tema:hover {
+  height: 10%;
+  width: 50%;
+}
+.pedro {
+  border: 0.2rem solid;
+  height: 4.8rem;
+  margin-top: 0.2%;
+  margin-left: -0.6%;
+  width: 100.7%;
+  background-color: #121214;
+}
+.dicas {
+  margin-left: 3.4%;
+  margin-top: 1.2%;
+  color: white;
+  font: 700 200% 'Poppins', sans-serif;
+}
+.temes {
+  border: 0.3rem solid;
+  height: 32rem;
+  margin-left: -0.6%;
+  margin-top: 0.2%;
+  width: 100.5%;
+}
+.text2 {
+  font: 700 220% 'Poppins', sans-serif;
+  text-align: center;
+}
+.a1 {
+  margin-left: 6%;
+  border: 0.3rem solid;
+  height: 8rem;
+  width: 21%;
+}
+.a2 {
+  border: 0.3rem solid;
+  height: 8rem;
+  width: 21%;
+  margin-top: 4%;
+  margin-left: 6%;
+}
+.a3 {
+  border: 0.3rem solid;
+  height: 8rem;
+  width: 21%;
+  margin-top: -10%;
+  margin-left: 38.8%;
+}
+.a4 {
+  border: 0.3rem solid;
+  height: 8rem;
+  width: 21%;
+  margin-top: -24.5%;
+  margin-left: 38.8%;
+}
+.a5 {
+  border: 0.3rem solid;
+  height: 8rem;
+  width: 21%;
+  margin-top: -10.2%;
+  margin-left: 72%;
+}
+.a6 {
+  border: 0.3rem solid;
+  height: 8rem;
+  width: 21%;
+  margin-left: 72%;
+  margin-top: 4%;
+}
+.text3 {
+  border: 0.3rem solid;
+  height: 27rem;
+  margin-left: -0.6%;
+  margin-top: 0.2%;
+  width: 100.5%;
+}
+.c1 {
+  font: 700 220% 'Poppins', sans-serif;
+  text-align: center;
+}
+.c2 {
+  font: 400 115% 'Poppins', sans-serif;
+  text-align: center;
+}
+p {
+  text-align: center;
+  font: 400 125% 'Poppins', sans-serif;
+  margin-top: 3%;
+}
+.text4 {
+  margin-top: 4%;
+}
+.cat {
+  border: 0.3rem solid;
+  height: 39rem;
+  margin-top: 0.3%;
+  width: 100.5%;
+  margin-left: -0.6%;
+}
+.text7 {
+  font: 700 230% 'Poppins', sans-serif;
+  margin-top: 1.2%;
+  text-align: center;
+}
+.couto {
+  border: 0.2rem solid;
+  height: 4rem;
+  margin-top: 0.6%;
+  width: 30%;
+  margin-left: 0.5%;
+}
+.d1 {
+  border: 0.3rem solid;
+  height: 11rem;
+  width: 100%;
+  margin-left: 8%;
+  margin-top: 11%;
+  border-radius: 0.4rem;
+}
+.d2 {
+  border: 0.3rem solid;
+  height: 11rem;
+  width: 100%;
+  margin-left: 8%;
+  margin-top: 14%;
+  border-radius: 0.4rem;
+}
+.d3 {
+  border: 0.3rem solid;
+  height: 11rem;
+  margin-left: 117%;
+  margin-top: -132%;
+  width: 100%;
+  border-radius: 0.4rem;
+}
+.d4 {
+  border: 0.3rem solid;
+  height: 11rem;
+  margin-left: 117%;
+  margin-top: 4%;
+  width: 100%;
+  border-radius: 0.4rem;
+}
+.d5 {
+  border: 0.3rem solid;
+  height: 11rem;
+  margin-left: 117%;
+  margin-top: 4%;
+  width: 100%;
+  border-radius: 0.4rem;
+}
+.d6 {
+  border: 0.3rem solid;
+  height: 11rem;
+  margin-left: 225%;
+  margin-top: -146.2%;
+  width: 100%;
+  border-radius: 0.4rem;
+}
+.d7 {
+  border: 0.3rem solid;
+  height: 11rem;
+  margin-left: 225%;
+  margin-top: 3.7%;
+  width: 100%;
+  border-radius: 0.4rem;
+}
+.d8 {
+  border: 0.3rem solid;
+  height: 11rem;
+  margin-left: 225%;
+  margin-top: 4.1%;
+  width: 100%;
+  border-radius: 0.4rem;
+}
+.coment {
+  border: 0.3rem solid;
+  height: 20rem;
+  margin-top: 0.32%;
+  width: 100.5%;
+  margin-left: -0.6%;
+}
+.text12 {
+  font: 700 230% 'Poppins', sans-serif;
+  margin-top: 0.4%;
+  margin-left: 4%;
+}
+.reis {
+  border: 0.3rem solid;
+  margin-top: -0.2%;
+  height: 4rem;
+  width: 100%;
+  margin-left: -0.6%;
+}
+.e1 {
+  border: 0.2rem solid;
+  height: 10.2rem;
+  margin-top: 3%;
+  width: 33%;
+  margin-left: 8%;
+  border-radius: 0.4rem;
+}
+.e2 {
+  border: 0.2rem solid;
+  height: 10.2rem;
+  margin-top: -12.5%;
+  width: 33%;
+  margin-left: 55%;
+  border-radius: 0.4rem;
+}
+.cursos {
+  border: 0.3rem solid;
+  height: 37.5rem;
+  margin-top: 0.3%;
+  width: 100.5%;
+  margin-left: -0.6%;
+}
+.ma {
+  font: 700 230% 'Poppins', sans-serif;
+  margin-top: 0.4%;
+  margin-left: 60%;
+}
+.henrique {
+  border: 0.3rem solid;
+  margin-top: -0.2%;
+  height: 4rem;
+  width: 100%;
+  margin-left: -0.6%;
+}
+.kkkk {
+  font: 700 230% 'Poppins', sans-serif;
+  text-align: center;
+  margin-top: 5%;
+}
+.none {
+  text-decoration: none;
+  color: black;
+}
+.contato {
+  border: 0.3rem solid;
+  height: 18rem;
+  margin-top: 0.3%;
+  width: 100.5%;
+  margin-left: -0.6%;
+}
+.contact {
+  border: 0.3rem solid;
+  margin-top: -0.2%;
+  height: 4rem;
+  width: 100%;
+  margin-left: -0.6%;
+}
+.ja {
+  font: 700 230% 'Poppins', sans-serif;
+  text-align: center;
+  margin-top: 0.3%;
+}
+.jaa {
+  font: 700 230% 'Poppins', sans-serif;
+  text-align: center;
+  margin-top: 5.7%;
+}
+.blabla {
+  text-decoration: none;
+  color: black;
+}
+.kj {
+  text-align: center;
+  font: 700 100% 'Poppins', sans-serif;
+}
+.l {
+  border: 0.2rem solid;
+  height: 3rem;
+  width: 100.6%;
+  margin-top: 0.3%;
+  margin-left: -0.6%;
+}
